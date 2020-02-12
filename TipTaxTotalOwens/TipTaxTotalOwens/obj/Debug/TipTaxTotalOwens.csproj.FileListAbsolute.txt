@@ -1,0 +1,9 @@
+C:\Users\bradl\source\repos\TipTaxTotalOwens\TipTaxTotalOwens\obj\Debug\TipTaxTotalOwens.csprojAssemblyReference.cache
+C:\Users\bradl\source\repos\TipTaxTotalOwens\TipTaxTotalOwens\obj\Debug\TipTaxTotalOwens.TipTaxTotalOwens.resources
+C:\Users\bradl\source\repos\TipTaxTotalOwens\TipTaxTotalOwens\obj\Debug\TipTaxTotalOwens.Properties.Resources.resources
+C:\Users\bradl\source\repos\TipTaxTotalOwens\TipTaxTotalOwens\obj\Debug\TipTaxTotalOwens.csproj.GenerateResource.cache
+C:\Users\bradl\source\repos\TipTaxTotalOwens\TipTaxTotalOwens\bin\Debug\TipTaxTotalOwens.exe.config
+C:\Users\bradl\source\repos\TipTaxTotalOwens\TipTaxTotalOwens\bin\Debug\TipTaxTotalOwens.exe
+C:\Users\bradl\source\repos\TipTaxTotalOwens\TipTaxTotalOwens\bin\Debug\TipTaxTotalOwens.pdb
+C:\Users\bradl\source\repos\TipTaxTotalOwens\TipTaxTotalOwens\obj\Debug\TipTaxTotalOwens.exe
+C:\Users\bradl\source\repos\TipTaxTotalOwens\TipTaxTotalOwens\obj\Debug\TipTaxTotalOwens.pdb

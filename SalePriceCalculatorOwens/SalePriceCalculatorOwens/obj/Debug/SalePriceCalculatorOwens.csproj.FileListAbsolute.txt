@@ -1,0 +1,9 @@
+C:\Users\bradl\source\repos\SalePriceCalculatorOwens\SalePriceCalculatorOwens\bin\Debug\SalePriceCalculatorOwens.exe.config
+C:\Users\bradl\source\repos\SalePriceCalculatorOwens\SalePriceCalculatorOwens\bin\Debug\SalePriceCalculatorOwens.exe
+C:\Users\bradl\source\repos\SalePriceCalculatorOwens\SalePriceCalculatorOwens\bin\Debug\SalePriceCalculatorOwens.pdb
+C:\Users\bradl\source\repos\SalePriceCalculatorOwens\SalePriceCalculatorOwens\obj\Debug\SalePriceCalculatorOwens.csprojAssemblyReference.cache
+C:\Users\bradl\source\repos\SalePriceCalculatorOwens\SalePriceCalculatorOwens\obj\Debug\SalePriceCalculatorOwens.SalePriceCalculatorOwens.resources
+C:\Users\bradl\source\repos\SalePriceCalculatorOwens\SalePriceCalculatorOwens\obj\Debug\SalePriceCalculatorOwens.Properties.Resources.resources
+C:\Users\bradl\source\repos\SalePriceCalculatorOwens\SalePriceCalculatorOwens\obj\Debug\SalePriceCalculatorOwens.csproj.GenerateResource.cache
+C:\Users\bradl\source\repos\SalePriceCalculatorOwens\SalePriceCalculatorOwens\obj\Debug\SalePriceCalculatorOwens.exe
+C:\Users\bradl\source\repos\SalePriceCalculatorOwens\SalePriceCalculatorOwens\obj\Debug\SalePriceCalculatorOwens.pdb

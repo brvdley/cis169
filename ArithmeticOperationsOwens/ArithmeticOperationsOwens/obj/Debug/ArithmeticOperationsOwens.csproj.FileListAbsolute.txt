@@ -1,0 +1,9 @@
+C:\Users\bradl\source\repos\ArithmeticOperationsOwens\ArithmeticOperationsOwens\bin\Debug\ArithmeticOperationsOwens.exe.config
+C:\Users\bradl\source\repos\ArithmeticOperationsOwens\ArithmeticOperationsOwens\bin\Debug\ArithmeticOperationsOwens.exe
+C:\Users\bradl\source\repos\ArithmeticOperationsOwens\ArithmeticOperationsOwens\bin\Debug\ArithmeticOperationsOwens.pdb
+C:\Users\bradl\source\repos\ArithmeticOperationsOwens\ArithmeticOperationsOwens\obj\Debug\ArithmeticOperationsOwens.csprojAssemblyReference.cache
+C:\Users\bradl\source\repos\ArithmeticOperationsOwens\ArithmeticOperationsOwens\obj\Debug\ArithmeticOperationsOwens.ArithmeticOperationsOwens.resources
+C:\Users\bradl\source\repos\ArithmeticOperationsOwens\ArithmeticOperationsOwens\obj\Debug\ArithmeticOperationsOwens.Properties.Resources.resources
+C:\Users\bradl\source\repos\ArithmeticOperationsOwens\ArithmeticOperationsOwens\obj\Debug\ArithmeticOperationsOwens.csproj.GenerateResource.cache
+C:\Users\bradl\source\repos\ArithmeticOperationsOwens\ArithmeticOperationsOwens\obj\Debug\ArithmeticOperationsOwens.exe
+C:\Users\bradl\source\repos\ArithmeticOperationsOwens\ArithmeticOperationsOwens\obj\Debug\ArithmeticOperationsOwens.pdb

@@ -1,0 +1,9 @@
+C:\Users\bradl\source\repos\timeCalculatorOwens\timeCalculatorOwens\bin\Debug\timeCalculatorOwens.exe.config
+C:\Users\bradl\source\repos\timeCalculatorOwens\timeCalculatorOwens\bin\Debug\timeCalculatorOwens.exe
+C:\Users\bradl\source\repos\timeCalculatorOwens\timeCalculatorOwens\bin\Debug\timeCalculatorOwens.pdb
+C:\Users\bradl\source\repos\timeCalculatorOwens\timeCalculatorOwens\obj\Debug\timeCalculatorOwens.csprojAssemblyReference.cache
+C:\Users\bradl\source\repos\timeCalculatorOwens\timeCalculatorOwens\obj\Debug\timeCalculatorOwens.timeCalculatorOwens.resources
+C:\Users\bradl\source\repos\timeCalculatorOwens\timeCalculatorOwens\obj\Debug\timeCalculatorOwens.Properties.Resources.resources
+C:\Users\bradl\source\repos\timeCalculatorOwens\timeCalculatorOwens\obj\Debug\timeCalculatorOwens.csproj.GenerateResource.cache
+C:\Users\bradl\source\repos\timeCalculatorOwens\timeCalculatorOwens\obj\Debug\timeCalculatorOwens.exe
+C:\Users\bradl\source\repos\timeCalculatorOwens\timeCalculatorOwens\obj\Debug\timeCalculatorOwens.pdb

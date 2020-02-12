@@ -1,0 +1,9 @@
+C:\Users\bradl\source\repos\Card Flip\Card Flip\bin\Debug\Card Flip.exe.config
+C:\Users\bradl\source\repos\Card Flip\Card Flip\bin\Debug\Card Flip.exe
+C:\Users\bradl\source\repos\Card Flip\Card Flip\bin\Debug\Card Flip.pdb
+C:\Users\bradl\source\repos\Card Flip\Card Flip\obj\Debug\Card Flip.csprojAssemblyReference.cache
+C:\Users\bradl\source\repos\Card Flip\Card Flip\obj\Debug\Card_Flip.CardFlip.resources
+C:\Users\bradl\source\repos\Card Flip\Card Flip\obj\Debug\Card_Flip.Properties.Resources.resources
+C:\Users\bradl\source\repos\Card Flip\Card Flip\obj\Debug\Card Flip.csproj.GenerateResource.cache
+C:\Users\bradl\source\repos\Card Flip\Card Flip\obj\Debug\Card Flip.exe
+C:\Users\bradl\source\repos\Card Flip\Card Flip\obj\Debug\Card Flip.pdb

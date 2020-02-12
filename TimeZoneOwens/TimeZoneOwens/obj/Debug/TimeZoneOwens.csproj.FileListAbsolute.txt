@@ -1,0 +1,9 @@
+C:\Users\bradl\source\repos\TimeZoneOwens\TimeZoneOwens\bin\Debug\TimeZoneOwens.exe.config
+C:\Users\bradl\source\repos\TimeZoneOwens\TimeZoneOwens\bin\Debug\TimeZoneOwens.exe
+C:\Users\bradl\source\repos\TimeZoneOwens\TimeZoneOwens\bin\Debug\TimeZoneOwens.pdb
+C:\Users\bradl\source\repos\TimeZoneOwens\TimeZoneOwens\obj\Debug\TimeZoneOwens.csprojAssemblyReference.cache
+C:\Users\bradl\source\repos\TimeZoneOwens\TimeZoneOwens\obj\Debug\TimeZoneOwens.timezonesOwens.resources
+C:\Users\bradl\source\repos\TimeZoneOwens\TimeZoneOwens\obj\Debug\TimeZoneOwens.Properties.Resources.resources
+C:\Users\bradl\source\repos\TimeZoneOwens\TimeZoneOwens\obj\Debug\TimeZoneOwens.csproj.GenerateResource.cache
+C:\Users\bradl\source\repos\TimeZoneOwens\TimeZoneOwens\obj\Debug\TimeZoneOwens.exe
+C:\Users\bradl\source\repos\TimeZoneOwens\TimeZoneOwens\obj\Debug\TimeZoneOwens.pdb

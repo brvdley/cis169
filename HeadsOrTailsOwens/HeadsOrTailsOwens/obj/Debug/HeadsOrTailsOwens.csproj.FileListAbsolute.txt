@@ -1,0 +1,8 @@
+C:\Users\bradl\source\repos\HeadsOrTailsOwens\HeadsOrTailsOwens\bin\Debug\HeadsOrTailsOwens.exe.config
+C:\Users\bradl\source\repos\HeadsOrTailsOwens\HeadsOrTailsOwens\bin\Debug\HeadsOrTailsOwens.exe
+C:\Users\bradl\source\repos\HeadsOrTailsOwens\HeadsOrTailsOwens\bin\Debug\HeadsOrTailsOwens.pdb
+C:\Users\bradl\source\repos\HeadsOrTailsOwens\HeadsOrTailsOwens\obj\Debug\HeadsOrTailsOwens.HeadsOrTails.resources
+C:\Users\bradl\source\repos\HeadsOrTailsOwens\HeadsOrTailsOwens\obj\Debug\HeadsOrTailsOwens.Properties.Resources.resources
+C:\Users\bradl\source\repos\HeadsOrTailsOwens\HeadsOrTailsOwens\obj\Debug\HeadsOrTailsOwens.csproj.GenerateResource.cache
+C:\Users\bradl\source\repos\HeadsOrTailsOwens\HeadsOrTailsOwens\obj\Debug\HeadsOrTailsOwens.exe
+C:\Users\bradl\source\repos\HeadsOrTailsOwens\HeadsOrTailsOwens\obj\Debug\HeadsOrTailsOwens.pdb

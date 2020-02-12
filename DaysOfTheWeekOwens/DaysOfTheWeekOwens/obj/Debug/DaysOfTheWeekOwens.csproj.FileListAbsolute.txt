@@ -1,0 +1,8 @@
+C:\Users\bradl\source\repos\DaysOfTheWeekOwens\DaysOfTheWeekOwens\bin\Debug\DaysOfTheWeekOwens.exe.config
+C:\Users\bradl\source\repos\DaysOfTheWeekOwens\DaysOfTheWeekOwens\bin\Debug\DaysOfTheWeekOwens.exe
+C:\Users\bradl\source\repos\DaysOfTheWeekOwens\DaysOfTheWeekOwens\bin\Debug\DaysOfTheWeekOwens.pdb
+C:\Users\bradl\source\repos\DaysOfTheWeekOwens\DaysOfTheWeekOwens\obj\Debug\DaysOfTheWeekOwens.DaysOfTheWeekOwens.resources
+C:\Users\bradl\source\repos\DaysOfTheWeekOwens\DaysOfTheWeekOwens\obj\Debug\DaysOfTheWeekOwens.Properties.Resources.resources
+C:\Users\bradl\source\repos\DaysOfTheWeekOwens\DaysOfTheWeekOwens\obj\Debug\DaysOfTheWeekOwens.csproj.GenerateResource.cache
+C:\Users\bradl\source\repos\DaysOfTheWeekOwens\DaysOfTheWeekOwens\obj\Debug\DaysOfTheWeekOwens.exe
+C:\Users\bradl\source\repos\DaysOfTheWeekOwens\DaysOfTheWeekOwens\obj\Debug\DaysOfTheWeekOwens.pdb
